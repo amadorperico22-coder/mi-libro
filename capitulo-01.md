@@ -3,3 +3,5 @@
 La protagonista prepara su mochila y sale de casa.
 
 Su objetivo es encontrar el faro del norte.
+
+Su objetivo es encontrar el faro del norte.
